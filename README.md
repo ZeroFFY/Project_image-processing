@@ -1,2 +1,3 @@
 # Project_image-processing
-Project Objectives：There are some photovoltaic panels that need to be checked by the staff to see whether they work properly.If the photovoltaic panels didn't work, some electronic components went wrong in the photovoltaic panels. But the electronic components must be  which can’t be shoot by ordinary camera
+Project Objectives：There are some photovoltaic panels that need to be checked by the staff to see whether they work properly.If the photovoltaic panels didn't work, some electronic components went wrong in the photovoltaic panels. But the electronic components must be nchecked by the staff inside one by one . So they can't be shoot by ordinary camera directly. How to know the status of electronic components in the photovoltaic panel by just taking a few pictures automatically.
+Solution:By using drone with two cameras,we can capture the heat and appearance of electronic components respectively inside the photovoltaic panel.
